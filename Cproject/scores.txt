@@ -1,0 +1,3 @@
+Initial Scores:
+FCB: 0
+RMA: 0
