@@ -1,0 +1,6 @@
+,#,Name,Type 1,Type 2,TotalHP,HP,Attack,Defense,Sp. Atk,Sp. Def,Agility,Legendary,Generation
+0,130,GyaradosMega Gyarados,Water,Dark,640,95,155,109,70,130,81,False,1
+1,319,Sharpedo,Water,Dark,460,70,120,40,95,40,95,False,3
+2,319,SharpedoMega Sharpedo,Water,Dark,560,70,140,70,110,65,105,False,3
+3,342,Crawdaunt,Water,Dark,468,63,120,85,90,55,55,False,3
+4,658,Greninja,Water,Dark,530,72,95,67,103,71,122,False,6
