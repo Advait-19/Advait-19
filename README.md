@@ -11,6 +11,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/advait-gupta-a6614228b/
 - GitHub: https://github.com/Advait-19
+- Gmail: advait.hyd@gmail.com
 
 ---
 
