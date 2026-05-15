@@ -1,7 +1,0 @@
-open( "ogfile.txt",'x')
-orig='ogfile.txt'
-with open(orig,'w') as openfile:
-    openfile.write("Yesterday I went to Raju's home. I saw a movie there. Movie name was Titanic. His mother gave us some snacks. " 
-                 "We ate it together. After that she gave us some fresh juices. We drank it together. Raju's brother came home that evening. We played football together. " 
-                 "Then we played chess. Suddenly rain started in the evening. I went back to home. Mom scolded me for late timing. Then I asked sorry to her")
-    
