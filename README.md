@@ -1,18 +1,74 @@
-## Hi there 👋
+# Hi, I'm Advait Gupta 👋
 
-I am Advait Gupta, pursuing B.Tech in Computer Science in KIIT, Bhubaneswar. 
-This repository is of all of the programs I have done independently.
-<!--
-**Advait-19/Advait-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student at KIIT  
+🤖 AI/ML Enthusiast | NLP Explorer | Builder  
+📚 Building Learnora — a personalized AI-powered learning platform  
+🏏 Aspiring Sports Analyst using Machine Learning & Data Analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Personalized Learning Systems
+- NLP & Recommendation Engines
+- LLM Applications
+- Machine Learning Projects
+- Sports Analytics with Python
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C++
+- Java
+- SQL
+
+### AI/ML
+- Scikit-learn
+- Pandas
+- NumPy
+- Transformers
+- Sentence-BERT
+- Zero-Shot Classification
+
+### Development
+- Git & GitHub
+- Flask
+- Streamlit
+- PostgreSQL
+
+---
+
+## 📌 Featured Project
+
+### Learnora
+AI-powered personalized learning engine that recommends educational content from sources like arXiv and YouTube using NLP and Machine Learning.
+
+Features:
+- Smart content tagging
+- Personalized recommendations
+- Transformer-based classification
+- GPT-assisted labeling pipeline
+
+---
+
+## 📈 Currently Learning
+
+- Deep Learning
+- MLOps
+- Recommendation Systems
+- Advanced NLP
+- Cloud & Deployment
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: [Add Link]
+- GitHub: https://github.com/Advait-19
+
+---
+
+⭐ Always building, learning, and experimenting with AI-powered ideas.
