@@ -7,6 +7,13 @@
 
 ---
 
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/advait-gupta-a6614228b/
+- GitHub: https://github.com/Advait-19
+
+---
+
 ## 🚀 Current Focus
 
 - Personalized Learning Systems
@@ -61,14 +68,5 @@ Features:
 - Recommendation Systems
 - Advanced NLP
 - Cloud & Deployment
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: [Add Link]
-- GitHub: https://github.com/Advait-19
-
----
 
 ⭐ Always building, learning, and experimenting with AI-powered ideas.
